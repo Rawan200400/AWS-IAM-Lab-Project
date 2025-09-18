@@ -1,4 +1,4 @@
-﻿# AWS IAM Lab Project
+# AWS IAM Lab Project
 
 ## 📌 Introduction
 This project demonstrates the use of **AWS Identity and Access Management (IAM)** to manage users, groups, and permissions in AWS.  
@@ -13,6 +13,10 @@ The lab simulates a real-world scenario where users are assigned to groups with 
 - Locate and use the IAM sign-in URL.
 - Test permissions of different IAM users by signing in and accessing AWS services.
 - Observe the effects of IAM policies on service access.
+
+ 📷 *Screenshot:*  
+![lab-overview](images/lab-overview.png)
+
 
 ---
 
@@ -32,7 +36,6 @@ The lab simulates a real-world scenario where users are assigned to groups with 
 
    📷 *Screenshot:*  
    ![IAM Users](images/iam-users.png)
-
 2. Navigate to **IAM → Groups**.  
    - Pre-created groups:
      - `EC2-Admin` → Inline Policy (Start/Stop EC2).
@@ -142,6 +145,12 @@ Example:
 ⏱️ Approx. 40 minutes.
 
 ---
+---
+
+## 📝 Evaluation & Score
+At the end of the lab, AWS provided an evaluation score to confirm successful completion of all tasks.
+
+![evaluation](images/evaluation.png)
 
 ## ✅ Conclusion
 Through this lab, IAM concepts were reinforced by:
