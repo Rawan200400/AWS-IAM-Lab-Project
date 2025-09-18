@@ -66,7 +66,7 @@ The lab simulates a real-world scenario where users are assigned to groups with 
 2. Confirm addition.
 
 📷 *Screenshot:*  
-<img src="images/user1-s3-support.png" width="600">
+<img src="images/user1-s3.png" width="600">
 
 ---
 
@@ -75,7 +75,7 @@ The lab simulates a real-world scenario where users are assigned to groups with 
 2. Confirm addition.
 
 📷 *Screenshot:*  
-<img src="images/user2-ec2-support.png" width="600">
+<img src="images/user2-ec2.png" width="600">
 
 ---
 
@@ -84,7 +84,7 @@ The lab simulates a real-world scenario where users are assigned to groups with 
 2. Confirm addition.
 
 📷 *Screenshot:*  
-<img src="images/user1-s3-support.png" width="600">
+<img src="images/user1-s3.png" width="600">
 
 ---
 
@@ -99,7 +99,7 @@ Example:
 Example:  
 `https://123456789012.signin.aws.amazon.com/console`
 
-📷 *Screenshot #7:*  
+📷 *Screenshot:*  
 <img src="images/signin-url.png" width="600">
 
 ---
