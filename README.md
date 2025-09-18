@@ -149,14 +149,6 @@ Example:
 ## 📂 Project Duration
 ⏱️ Approx. 40 minutes.
 
----
----
-
-## 📝 Evaluation & Score
-At the end of the lab, AWS provided an evaluation score to confirm successful completion of all tasks.
-
-<img src="images/evaluation.png" width="600">
-
 ## ✅ Conclusion
 Through this lab, IAM concepts were reinforced by:
 - Managing users and groups.
